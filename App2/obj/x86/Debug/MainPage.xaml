@@ -1,0 +1,116 @@
+﻿<Page
+    x:Class="App2.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Width="1905" Height="930" Background="#99FFFFFF">
+
+    <Grid>
+        <ScrollViewer Style="{StaticResource MyScrollViewerStyle}" Margin="10,0,1526,8" VerticalContentAlignment="Center" HorizontalScrollMode="Disabled" VerticalScrollMode="Enabled">
+            <Grid Width="369">
+                <Button x:ConnectionId='3' x:Name="perviy" Content="Button" Height="150"                      Margin="0,15,19,0" VerticalAlignment="Top" FocusVisualSecondaryBrush="#99FFFFFF" HorizontalAlignment="Stretch"/>
+                <Button x:ConnectionId='4' x:Name="russia1" Content="Button" Height="150" Width="350"                       Margin="0,165,0,0" VerticalAlignment="Top"/>
+                <Button x:ConnectionId='5' x:Name="match" Content="Button" Height="150" Width="350" Margin="0,315,0,0" VerticalAlignment="Top"                    />
+                <Button x:ConnectionId='6' x:Name="ntv" Content="Button" Height="150" Width="350" Margin="0,465,0,0" VerticalAlignment="Top"                  />
+                <Button x:ConnectionId='7' x:Name="pyatii" Content="Button" Height="150" Width="350" Margin="0,615,0,0" VerticalAlignment="Top"                   />
+                <Button x:ConnectionId='8' x:Name="russiak" Content="Button" Height="150" Width="350" Margin="0,765,0,0" VerticalAlignment="Top"                      />
+                <Button x:ConnectionId='9' x:Name="russia24" Content="Button" Height="150" VerticalAlignment="Top" Margin="0,915,0,0"                        Width="350"/>
+                <Button x:ConnectionId='10' x:Name="karusel" Content="Button" Height="150" Width="350"                       FocusVisualSecondaryBrush="#99FFFFFF" Margin="0,1065,0,0" VerticalAlignment="Top"/>
+                <Button x:ConnectionId='11' x:Name="otr" Content="Button" Height="150" Width="350"                   Margin="0,1212,0,0" VerticalAlignment="Top"/>
+                <Button x:ConnectionId='12' x:Name="twc" Content="Button" Height="150" Width="350"                   Margin="0,1361,0,0" VerticalAlignment="Top"/>
+                <Button x:ConnectionId='13' x:Name="rentv" Content="Button" Height="150" Width="350" Margin="0,1511,0,0" VerticalAlignment="Top"                    />
+                <Button x:ConnectionId='14' x:Name="spas" Content="Button" Height="150" Width="350" Margin="0,1661,0,0" VerticalAlignment="Top"                   />
+                <Button x:ConnectionId='15' x:Name="sts" Content="Button" Height="150" Width="350" Margin="0,1811,0,0" VerticalAlignment="Top"                  />
+                <Button x:ConnectionId='16' x:Name="domashnii" Content="Button" Height="150" VerticalAlignment="Top" Margin="0,1961,0,0"                         Width="350"/>
+                <Button x:ConnectionId='17' x:Name="tv3" Content="Button" Height="150" Width="350"                   FocusVisualSecondaryBrush="#99FFFFFF" Margin="0,2111,0,0" VerticalAlignment="Top"/>
+                <Button x:ConnectionId='18' x:Name="friday" Content="Button" Height="150" Width="350"                      Margin="0,2258,0,0" VerticalAlignment="Top"/>
+                <Button x:ConnectionId='19' x:Name="zvezda" Content="Button" Height="150" Width="350"                      Margin="0,2407,0,0" VerticalAlignment="Top"/>
+                <Button x:ConnectionId='20' x:Name="mir" Content="Button" Height="150" Width="350" Margin="0,2557,0,0" VerticalAlignment="Top"                  />
+                <Button x:ConnectionId='21' x:Name="tnt" Content="Button" Height="150" Width="350" Margin="0,2707,0,0" VerticalAlignment="Top"                  />
+                <Button x:ConnectionId='22' x:Name="muztv" Content="Button" Height="150" Width="350" Margin="0,2857,0,0" VerticalAlignment="Top"                    />
+                <Button x:ConnectionId='23' x:Name="kinotv" Content="Button" Height="150" VerticalAlignment="Top" Margin="0,3007,0,0"                      Width="350"/>
+                <Button x:ConnectionId='24' x:Name="mir24" Content="Button" Height="150" Width="350"                     FocusVisualSecondaryBrush="#99FFFFFF" Margin="0,3157,0,0" VerticalAlignment="Top"/>
+                <Button x:ConnectionId='25' x:Name="che" Content="Button" Height="150" Width="350"                   Margin="0,3304,0,0" VerticalAlignment="Top"/>
+                <Button x:ConnectionId='26' x:Name="yu" Content="Button" Height="150" Width="350"                    Margin="0,3453,0,0" VerticalAlignment="Top"/>
+                <Button x:ConnectionId='27' x:Name="subbota" Content="Button" Height="150" Width="350" Margin="0,3603,0,0" VerticalAlignment="Top"                      />
+                <Button x:ConnectionId='28' x:Name="_2x2" Content="Button" Height="150" Width="350" Margin="0,3753,0,0" VerticalAlignment="Top"                    />
+                <Button x:ConnectionId='29' x:Name="tnt4" Content="Button" Height="150" Width="350" Margin="0,3903,0,0" VerticalAlignment="Top"                   />
+                <Button x:ConnectionId='30' x:Name="disney" Content="Button" Height="150" Width="350" Margin="0,4053,0,0" VerticalAlignment="Top"                     />
+                <Button x:ConnectionId='31' x:Name="vestifm" Content="Button" Height="150" Width="350"                       FocusVisualSecondaryBrush="#99FFFFFF" Margin="0,4203,0,0" VerticalAlignment="Top"/>
+                <Button x:ConnectionId='32' x:Name="moscow24" Content="Button" Height="150" Width="350"                        Margin="0,4353,0,0" VerticalAlignment="Top"/>
+                <Button x:ConnectionId='33' x:Name="doverie" Content="Button" Height="150" Width="350"                       Margin="0,4502,0,0" VerticalAlignment="Top"/>
+                <Button x:ConnectionId='34' x:Name="tv360" Content="Button" Height="150" Width="350" Margin="0,4652,0,0" VerticalAlignment="Top"                    />
+                <Button x:ConnectionId='35' x:Name="tvnews360" Content="Button" Height="150" Width="350" Margin="0,4802,0,0" VerticalAlignment="Top"                        />
+                <Button x:ConnectionId='36' x:Name="myplanet" Content="Button" Height="150" Width="350" Margin="0,4952,0,0" VerticalAlignment="Top"                       />
+                <Button x:ConnectionId='37' x:Name="matchstrana" Content="Button" Height="150" Width="350" Margin="0,5102,0,0" VerticalAlignment="Top"                          />
+                <Button x:ConnectionId='38' x:Name="eurosport2" Content="Button" Height="150" Width="350" Margin="0,5259,0,0" VerticalAlignment="Top"                         />
+                <Button x:ConnectionId='39' x:Name="ehomoscow" Content="Button" Height="150" Width="350"                         FocusVisualSecondaryBrush="#99FFFFFF" Margin="0,5409,0,0" VerticalAlignment="Top"/>
+                <Button x:ConnectionId='40' x:Name="musicboxgold" Content="Button" Height="150" Width="350"                            Margin="0,5559,0,0" VerticalAlignment="Top"/>
+                <Button x:ConnectionId='41' x:Name="tntmusic" Content="Button" Height="150" Width="350"                        Margin="0,5708,0,0" VerticalAlignment="Top"/>
+                <Button x:ConnectionId='42' x:Name="smile" Content="Button" Height="150" Width="350" Margin="0,5858,0,0" VerticalAlignment="Top"                    />
+                <Button x:ConnectionId='43' x:Name="ntcsev" Content="Button" Height="150" Width="350" Margin="0,6008,0,0" VerticalAlignment="Top"                     />
+                <Button x:ConnectionId='44' x:Name="start" Content="Button" Height="150" Width="350" Margin="0,6158,0,0" VerticalAlignment="Top"                    />
+                <Button x:ConnectionId='45' x:Name="zagorodhdint" Content="Button" Height="150" Width="350" Margin="0,6308,0,0" VerticalAlignment="Top"                           />
+                <Button x:ConnectionId='46' x:Name="jiviactivno" Content="Button" Height="150" Width="350" Margin="0,6454,0,0" VerticalAlignment="Top"                          />
+                <Button x:ConnectionId='47' x:Name="davinci" Content="Button" Height="150" Width="350"                       FocusVisualSecondaryBrush="#99FFFFFF" Margin="0,6604,0,0" VerticalAlignment="Top"/>
+                <Button x:ConnectionId='48' x:Name="europaplustv" Content="Button" Height="150" Width="350"                            Margin="0,6754,0,0" VerticalAlignment="Top"/>
+                <Button x:ConnectionId='49' x:Name="ctckidshd" Content="Button" Height="150" Width="350"                         Margin="0,6903,0,0" VerticalAlignment="Top"/>
+                <Button x:ConnectionId='50' x:Name="gulligirl" Content="Button" Height="150" Width="350" Margin="0,7053,0,0" VerticalAlignment="Top"                        />
+                <Button x:ConnectionId='51' x:Name="firstspace" Content="Button" Height="150" Width="350" Margin="0,7203,0,0" VerticalAlignment="Top"                         />
+                <Button x:ConnectionId='52' x:Name="vipmegahithd" Content="Button" Height="150" Width="350" Margin="0,7353,0,0" VerticalAlignment="Top"                           />
+                <Button x:ConnectionId='53' x:Name="vipcomedyhd" Content="Button" Height="150" Width="350" Margin="0,7503,0,0" VerticalAlignment="Top"                          />
+                <Button x:ConnectionId='54' x:Name="vippremierehd" Content="Button" Height="150" Width="350" Margin="0,7653,0,0" VerticalAlignment="Top"                            />
+                <Button x:ConnectionId='55' x:Name="vipserialhd" Content="Button" Height="150" Width="350" Margin="0,7803,0,0" VerticalAlignment="Top"                          />
+                <Button x:ConnectionId='56' x:Name="viasathistory" Content="Button" Height="150" Width="350"                             Margin="0,7953,0,0" VerticalAlignment="Top"/>
+                <Button x:ConnectionId='57' x:Name="viasatexplore" Content="Button" Height="150" Width="350"                             Margin="0,8100,0,0" VerticalAlignment="Top"/>
+                <Button x:ConnectionId='58' x:Name="viasatnature" Content="Button" Height="150" Width="350" Margin="0,8255,0,0" VerticalAlignment="Top"                           />
+                <Button x:ConnectionId='59' x:Name="discovery" Content="Button" Height="150" Width="350" Margin="0,8405,0,0" VerticalAlignment="Top"                        />
+                <Button x:ConnectionId='60' x:Name="tv1000" Content="Button" Height="150" Width="350" Margin="0,8555,0,0" VerticalAlignment="Top"                     />
+                <Button x:ConnectionId='61' x:Name="tv1000action" Content="Button" Height="150" Width="350" Margin="0,8705,0,0" VerticalAlignment="Top"                           />
+                <Button x:ConnectionId='62' x:Name="tv1000ruskino" Content="Button" Height="150" Width="350" Margin="0,8855,0,0" VerticalAlignment="Top"                            />
+                <Button x:ConnectionId='63' x:Name="discoveryid" Content="Button" Height="150" Width="350" Margin="0,9005,0,0" VerticalAlignment="Top"                          />
+                <Button x:ConnectionId='64' x:Name="natgeo" Content="Button" Height="150" Width="350" Margin="0,9153,0,0" VerticalAlignment="Top"                     />
+                <Button x:ConnectionId='65' x:Name="tv78spb" Content="Button" Height="150" Width="350" Margin="0,9303,0,0" VerticalAlignment="Top"                      />
+                <Button x:ConnectionId='66' x:Name="viasatsporthd" Content="Button" Height="150" Width="350" Margin="0,9453,0,0" VerticalAlignment="Top"                            />
+                <Button x:ConnectionId='67' x:Name="ufctv" Content="Button" Height="150" Width="350" Margin="0,9603,0,0" VerticalAlignment="Top"                    />
+                <Button x:ConnectionId='68' x:Name="foxhd" Content="Button" Height="150" Width="350" Margin="0,9753,0,0" VerticalAlignment="Top"                    />
+                <Button x:ConnectionId='69' x:Name="foxlifehd" Content="Button" Height="150" Width="350" Margin="0,9903,0,0" VerticalAlignment="Top"                        />
+            </Grid>
+        </ScrollViewer>
+        <StackPanel Height="916" VerticalAlignment="Center" HorizontalAlignment="Left" Width="1905">
+            <Grid Height="1265">
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="983*"/>
+                    <RowDefinition Height="5*"/>
+                </Grid.RowDefinitions>
+                <MediaPlayerElement x:ConnectionId='2' x:Name="mediaPlayerElement" Source="http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4" AutoPlay="False" HorizontalContentAlignment="Stretch" VerticalContentAlignment="Stretch" RequestedTheme="Default" Margin="0,10,10,349" FocusVisualSecondaryBrush="#99000000" Foreground="Black" FocusVisualPrimaryBrush="Black" Background="Black" HorizontalAlignment="Right" Width="1505" CompositeMode="Inherit" ElementSoundMode="Off" TabNavigation="Local" AreTransportControlsEnabled="True" BorderBrush="Black">
+                    <MediaPlayerElement.TransportControls>
+                        <MediaTransportControls
+                    IsCompact="True"
+                    ShowAndHideAutomatically="True"
+                    IsFullWindowButtonVisible="True"
+                    IsNextTrackButtonVisible="False"
+                    IsPreviousTrackButtonVisible="False"
+                    IsVolumeButtonVisible="True"
+                    IsZoomButtonVisible="False"
+                    IsFastForwardButtonVisible="False"
+                    IsFastRewindButtonVisible="False"
+                    IsPlaybackRateButtonVisible="False"
+                    IsRepeatButtonVisible="False"
+                    IsSkipBackwardButtonVisible="False"
+                    IsSkipForwardButtonVisible="False"
+                    IsSeekBarVisible="False"
+                    IsSeekEnabled="False"
+                    IsStopButtonVisible="False"
+                    />
+                    </MediaPlayerElement.TransportControls>
+                </MediaPlayerElement>
+            </Grid>
+        </StackPanel>
+        <ProgressRing HorizontalAlignment="Left" Margin="704,1005,0,0" VerticalAlignment="Top" Height="95" Width="139" RenderTransformOrigin="0.665,3.379"/>
+    </Grid>
+
+</Page>
+

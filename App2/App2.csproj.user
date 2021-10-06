@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Source>C:\Users\Asus\Desktop\loading_screen4k.png</Source>
+    <SmallTileSource>C:\Users\Asus\Desktop\loading_screen4k.png</SmallTileSource>
+    <MediumTileSource>C:\Users\Asus\Desktop\loading_screen4k.png</MediumTileSource>
+    <WideTileSource>C:\Users\Asus\Desktop\loading_screen4k.png</WideTileSource>
+    <LargeTileSource>C:\Users\Asus\Desktop\loading_screen4k.png</LargeTileSource>
+    <AppIconSource>C:\Users\Asus\Desktop\loading_screen4k.png</AppIconSource>
+    <SplashScreenSource>C:\Users\Asus\Desktop\loading_screen4k.png</SplashScreenSource>
+    <PackageLogoSource>C:\Users\Asus\Desktop\loading_screen4k.png</PackageLogoSource>
+    <BadgeLogoSource>C:\Users\Asus\Desktop\loading_screen.png</BadgeLogoSource>
+  </PropertyGroup>
+</Project>

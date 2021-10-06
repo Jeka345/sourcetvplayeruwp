@@ -1,0 +1,47 @@
+C:\Users\Asus\source\repos\App2\App2\bin\x86\Debug\App.xbf
+C:\Users\Asus\source\repos\App2\App2\bin\x86\Debug\MainPage.xbf
+C:\Users\Asus\source\repos\App2\App2\bin\x86\Debug\resources.pri
+C:\Users\Asus\source\repos\App2\App2\bin\x86\Debug\AppxManifest.xml
+C:\Users\Asus\source\repos\App2\App2\bin\x86\Debug\Core\App2.exe
+C:\Users\Asus\source\repos\App2\App2\bin\x86\Debug\Core\AppxManifest.xml
+C:\Users\Asus\source\repos\App2\App2\bin\x86\Debug\App2.build.appxrecipe
+C:\Users\Asus\source\repos\App2\App2\bin\x86\Debug\System.Runtime.dll
+C:\Users\Asus\source\repos\App2\App2\bin\x86\Debug\Microsoft.UI.Xaml.Markup.winmd
+C:\Users\Asus\source\repos\App2\App2\obj\x86\Debug\App2.csproj.AssemblyReference.cache
+C:\Users\Asus\source\repos\App2\App2\obj\x86\Debug\App.g.i.cs
+C:\Users\Asus\source\repos\App2\App2\obj\x86\Debug\App.g.cs
+C:\Users\Asus\source\repos\App2\App2\obj\x86\Debug\MainPage.g.i.cs
+C:\Users\Asus\source\repos\App2\App2\obj\x86\Debug\MainPage.g.cs
+C:\Users\Asus\source\repos\App2\App2\obj\x86\Debug\XamlTypeInfo.g.cs
+C:\Users\Asus\source\repos\App2\App2\obj\x86\Debug\App.xaml
+C:\Users\Asus\source\repos\App2\App2\obj\x86\Debug\MainPage.xaml
+C:\Users\Asus\source\repos\App2\App2\obj\x86\Debug\App.xbf
+C:\Users\Asus\source\repos\App2\App2\obj\x86\Debug\MainPage.xbf
+C:\Users\Asus\source\repos\App2\App2\obj\x86\Debug\XamlSaveStateFile.xml
+C:\Users\Asus\source\repos\App2\App2\obj\x86\Debug\App2.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\App2\App2\obj\x86\Debug\App2.csproj.CopyComplete
+C:\Users\Asus\source\repos\App2\App2\obj\x86\Debug\ResourceHandlingTask.state
+C:\Users\Asus\source\repos\App2\App2\obj\x86\Debug\priconfig.xml
+C:\Users\Asus\source\repos\App2\App2\obj\x86\Debug\priconfig.xml.intermediate
+C:\Users\Asus\source\repos\App2\App2\obj\x86\Debug\unfiltered.layout.resfiles
+C:\Users\Asus\source\repos\App2\App2\obj\x86\Debug\unfiltered.layout.resfiles.intermediate
+C:\Users\Asus\source\repos\App2\App2\obj\x86\Debug\filtered.layout.resfiles
+C:\Users\Asus\source\repos\App2\App2\obj\x86\Debug\filtered.layout.resfiles.intermediate
+C:\Users\Asus\source\repos\App2\App2\obj\x86\Debug\excluded.layout.resfiles
+C:\Users\Asus\source\repos\App2\App2\obj\x86\Debug\excluded.layout.resfiles.intermediate
+C:\Users\Asus\source\repos\App2\App2\obj\x86\Debug\resources.resfiles
+C:\Users\Asus\source\repos\App2\App2\obj\x86\Debug\resources.resfiles.intermediate
+C:\Users\Asus\source\repos\App2\App2\obj\x86\Debug\pri.resfiles
+C:\Users\Asus\source\repos\App2\App2\obj\x86\Debug\pri.resfiles.intermediate
+C:\Users\Asus\source\repos\App2\App2\obj\x86\Debug\qualifiers.txt
+C:\Users\Asus\source\repos\App2\App2\obj\x86\Debug\qualifiers.txt.intermediate
+C:\Users\Asus\source\repos\App2\App2\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Asus\source\repos\App2\App2\obj\x86\Debug\ProjectArchitectures.txt
+C:\Users\Asus\source\repos\App2\App2\obj\x86\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_637424635200000000.json
+C:\Users\Asus\source\repos\App2\App2\bin\x86\Debug\Newtonsoft.Json.dll
+C:\Users\Asus\source\repos\App2\App2\bin\x86\Debug\TV Player on Windows, Xbox.xr.xml
+C:\Users\Asus\source\repos\App2\App2\bin\x86\Debug\TV Player on Windows, Xbox.exe
+C:\Users\Asus\source\repos\App2\App2\bin\x86\Debug\TV Player on Windows, Xbox.pdb
+C:\Users\Asus\source\repos\App2\App2\bin\x86\Debug\Core\TV Player on Windows, Xbox.exe
+C:\Users\Asus\source\repos\App2\App2\obj\x86\Debug\TV Player on Windows, Xbox.exe
+C:\Users\Asus\source\repos\App2\App2\obj\x86\Debug\TV Player on Windows, Xbox.pdb
